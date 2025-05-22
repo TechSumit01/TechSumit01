@@ -10,6 +10,6 @@
 
 🌍 Exploring: Open-source & developer communities  
 
-📫 Connect: [LinkedIn](https://www.linkedin.com/in/sumit-chauhan-7a722432b) | [Portfolio](https://yourportfolio.com)  
+📫 Connect: [LinkedIn](https://www.linkedin.com/in/sumit-chauhan-7a722432b) | [Portfolio](https://sumi1portfolio.netlify.app/)  
 
 ⚡ Fun fact: I believe in learning by building!
